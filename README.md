@@ -13,7 +13,7 @@ When adding a destination, please include:
 Destination name
 
 # Listing
-1.
+1. Nara Todaiji
 2.
 3.
 4.
