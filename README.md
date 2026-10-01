@@ -10,3 +10,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 2. [caveman](https://github.com/juliusbrussee/caveman) - a skill that makes your AI talk way less
 3. [rtk](https://github.com/rtk-ai/rtk) - a tool to compress your CLI outputs before they're ingested by your agent
 4. [headroom](https://github.com/headroomlabs-ai/headroom) - another context optimization tool
+5. your brain duh
