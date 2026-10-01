@@ -5,8 +5,8 @@ Repo - https://github.com/emscodex/SoftDevTheory
 The task is to accept Pull Requests based on a unique theme for a top ten list (i.e., activities, hotspots, hobbies, music, books etc. )
 
 # Top 10 Hobbies
-1. Reading
-2. Hiking
+1. Hiking
+2. Reading
 3. Video games
 4. Knitting
 5. Sewing
