@@ -11,3 +11,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 3. [rtk](https://github.com/rtk-ai/rtk) - a tool to compress your CLI outputs before they're ingested by your agent
 4. [headroom](https://github.com/headroomlabs-ai/headroom) - another context optimization tool
 5. OpenAI dots! - well I am not sure about it!
+6. [context7](https://github.com/upstash/context7) - an MCP that feeds up-to-date library docs straight into your agent's context
