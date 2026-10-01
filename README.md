@@ -6,5 +6,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 
 # The Top 10 list of Context Engineering Tools for AI Agents
 
-# Listing
 1.
