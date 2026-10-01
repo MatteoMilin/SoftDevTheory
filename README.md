@@ -9,5 +9,6 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 2. Legends of Zelda
 3. Assassin's Creed
 4. GTA 6
+5. Call of Duty
 7. Lego Rock Raiders
 
