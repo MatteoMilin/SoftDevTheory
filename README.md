@@ -18,7 +18,7 @@ Miyajima, Hiroshima
 Famous for Itsukushima Shrine and its iconic torii gate standing in the sea. Visitors can also enjoy views from Mt. Misen and try local specialties such as oysters and momiji manju.
 
 # Listing
-1.
+1. Nara Todaiji
 2.
 3.
 4.
