@@ -10,12 +10,7 @@ Each Pull Request should add one travel destination to the list below.
 
 When adding a destination, please include:
 
-Destination name and a little reasons
-
-# Example
-
-Miyajima, Hiroshima
-Famous for Itsukushima Shrine and its iconic torii gate standing in the sea. Visitors can also enjoy views from Mt. Misen and try local specialties such as oysters and momiji manju.
+Destination name
 
 # Listing
 1.
